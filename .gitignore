@@ -1,0 +1,7 @@
+data/raw/*.maf
+data/raw/*.maf.gz
+data/raw/*.tar.gz
+data/raw/*.json
+data/raw/luad_barcodes.txt
+__pycache__/
+*.pyc
